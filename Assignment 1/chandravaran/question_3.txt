@@ -1,0 +1,6 @@
+There are many unique things that can be done with data frames in python, one the few things that i was able to see
+while working on these data sets is that it is vry easy to resize the data that is given an manipulate it very easily 
+but unique feture that i found while working on this is that there is a function called 'groupby' so when we use this 
+function to a certain column it takes the unique elements of this column and that makes the groups for these of all the
+other columns so if we wanted to find the number of times a certain person or thing has done in the whole data set we
+can easily use this and if the data set is of type int than it would and give the values. 
